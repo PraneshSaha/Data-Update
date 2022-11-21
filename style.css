@@ -76,6 +76,17 @@ a {
     font-size: 18px;
 
 }
+
+.text {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.submit {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
 .content-mid {
     display: flex;
     flex-direction: column;
